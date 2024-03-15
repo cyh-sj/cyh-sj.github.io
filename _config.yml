@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xingyu Ren | 任星宇"
-description              : "Ph.D student in SJTU. Focusing on Face modeling."
-repository               : "xingyuren.github.io"
+title                    : "Yuhao Cheng | 程宇豪"
+description              : "Ph.D student in SJTU. Focusing on the generation, editing and driving of Faces/Heads."
+repository               : "cyh-sj.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Xingyu Ren 任星宇"
+  name             : "Yuhao Cheng 程宇豪"
   avatar           : "images/me.jpg"
   bio              : "SJTU-Vision-Group"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7uQyz0AAAAAJ"
-  email            : "ryan.ren.cn@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wYEh5DUAAAAJ&hl=en"
+  email            : "chengyuhao@sjtu.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xingyuren"
+  github           : "cyh-sj.github.com"
   google_plus      :
   keybase          :
   instagram        :
