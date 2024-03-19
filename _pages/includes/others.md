@@ -1,11 +1,9 @@
 
 # 📖 Educations
-- *2020.09 - Now*, Doctor, Shanghai Jiao Tong Univeristy, Shanghai.
-- *2018.09 - 2020.08*, Master, Shanghai Jiao Tong Univeristy, Shanghai.
-- *2012.09 - 2016.06*, Undergraduate, Harbin Institute of Technology, Harbin.
-
-# 💬 Invited Talks
-- *2023.04*, CVPR 2023 seminar \| [\[Video\]](https://www.bilibili.com/video/BV1U54y1F7UF)
+- *2022.04 - Now*, Doctor, Shanghai Jiao Tong Univeristy, Shanghai.
+- *2019.09 - 2022.03*, Master, Shanghai Jiao Tong Univeristy, Shanghai.
+- *2015.09 - 2019.06*, Undergraduate, Shanghai Jiao Tong Univeristy, Shanghai.
 
 # 💻 Internships
-- Cyberverse Lab, Huawei CBG, Shanghai.
+- *2022.10 - 2024.03*, Alibaba Group, Hangzhou.
+- *2021.04 - 2021.10*, OPPO Research Institute, Shanghai.
