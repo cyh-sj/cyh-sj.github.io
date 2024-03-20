@@ -1,4 +1,6 @@
 # 📝 Publications 
+\* Equal Contribution
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/warpface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,13 +49,37 @@ Sijing Wu, Yichao Yan, Yunhao Li, **Yuhao Cheng**, Wenhan Zhu, Ke Gao, Xiaobo Li
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips</div><img src='images/cagenerf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2022</div><img src='images/cagenerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cagenerf: Cage-based neural radiance field for generalized 3d deformation and animation](https://proceedings.neurips.cc/paper_files/paper/2022/file/cb78e6b5246b03e0b82b4acc8b11cc21-Paper-Conference.pdf) \\
 Yicong Peng, Yichao Yan, Shengqi Liu, **Yuhao Cheng**, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang
 
 [**Project**](https://pengyicong.github.io/CageNeRF/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2022</div><img src='images/cgmn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-modal Graph Matching Network for Image-text Retrieval](https://dl.acm.org/doi/full/10.1145/3499027) \\
+**Yuhao Cheng**, Xiaoguang Zhu, Jiuchao Qian, Fei Wen, Peilin Liu
+
+<!-- [**Project**](https://pengyicong.github.io/CageNeRF/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2022</div><img src='images/splc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simple and robust loss design for multi-label learning with missing labels](https://arxiv.org/pdf/2112.07368.pdf) \\
+Youcai Zhang\*, **Yuhao Cheng**\*, Xinyu Huang\*, Fei Wen, Rui Feng, Yaqian Li, Yandong Guo
+
+<!-- [**Project**](https://pengyicong.github.io/CageNeRF/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
 </div>
 </div>
