@@ -21,3 +21,15 @@ Xingyu Ren, Jiankang Deng, **Yuhao Cheng**, Jia Guo, Chao Ma, Yichao Yan, Wenhan
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2024</div><img src='images/head3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Head3D: Complete 3D Head Generation via Tri-plane Feature Distillation](https://dl.acm.org/doi/abs/10.1145/3635717) \\
+**Yuhao Cheng**, Yichao Yan, Wenhan Zhu, Ye Pan, Bowen Pan, Xiaokang Yang
+
+<!-- [**Project**](https://xingyuren.github.io/id2albedo/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+
+</div>
+</div>
