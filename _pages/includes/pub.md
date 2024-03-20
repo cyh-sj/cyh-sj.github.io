@@ -73,11 +73,23 @@ Yicong Peng, Yichao Yan, Shengqi Liu, **Yuhao Cheng**, Shanyan Guan, Bowen Pan, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2022</div><img src='images/splc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2021</div><img src='images/splc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simple and robust loss design for multi-label learning with missing labels](https://arxiv.org/pdf/2112.07368.pdf) \\
 Youcai Zhang\*, **Yuhao Cheng**\*, Xinyu Huang\*, Fei Wen, Rui Feng, Yaqian Li, Yandong Guo
+
+<!-- [**Project**](https://pengyicong.github.io/CageNeRF/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2019</div><img src='images/amn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semantic role labeling with associated memory network](https://aclanthology.org/N19-1340/) \\
+Chaoyu Guan, **Yuhao Cheng**, Hai Zhao
 
 <!-- [**Project**](https://pengyicong.github.io/CageNeRF/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
