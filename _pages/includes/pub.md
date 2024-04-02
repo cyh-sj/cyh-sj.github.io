@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/id2reflectance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Monocular Identity-Conditioned Facial Reflectance Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.pdf) \\
+[Monocular Identity-Conditioned Facial Reflectance Reconstruction](https://arxiv.org/abs/2404.00301) \\
 Xingyu Ren, Jiankang Deng, **Yuhao Cheng**, Jia Guo, Chao Ma, Yichao Yan, Wenhan Zhu, Xiaokang Yang
 
 [**Project**](https://xingyuren.github.io/id2reflectance/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
