@@ -7,3 +7,6 @@
 # 💻 Internships
 - *2022.10 - 2024.03*, Alibaba Group, Hangzhou.
 - *2021.04 - 2021.10*, OPPO Research Institute, Shanghai.
+
+# Thanks for watching!
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=WO6qFSpsrUWuFJ2ZBizckVeLyIIjbxHz9H8qGUvzUVY&cl=ffffff&w=a"></script>
