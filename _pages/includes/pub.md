@@ -1,6 +1,30 @@
 # 📝 Publications 
 \* Equal Contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
+Shengqi Liu, **Yuhao Cheng**, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
+
+[**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/faceclan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/pdf/2410.04965) \\
+Zhuo Chen, Yichao Yan, Sehngqi Liu, **Yuhao Cheng**, Weiming Zhao, Lincheng Li, Mengxiao Bi, Xiaokang Yang
+
+<!-- [**Project**](https://xuanchenli.github.io/Topo4D/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/topo4d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
