@@ -13,7 +13,7 @@ Shengqi Liu, **Yuhao Cheng**, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Me
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/faceclan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/faceclan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/pdf/2410.04965) \\
