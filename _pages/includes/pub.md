@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/textalker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture] \\
+Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture \\
 Xuanchen Li, Jianyu Wang, **Yuhao Cheng**, Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan 
 
 <!-- [**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
@@ -18,7 +18,7 @@ Xuanchen Li, Jianyu Wang, **Yuhao Cheng**, Yikun Zeng, Xingyu Ren, Wenhan Zhu, W
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/s3face.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[S^3^-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors] \\
+S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
 Xingyu Ren, Jiankang Deng, **Yuhao Cheng**, Wenhan Zhu, Yichao Yan, Xiaokang Yang, Stefanos Zafeiriou, Chao Ma
 
 <!-- [**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
@@ -66,7 +66,7 @@ Xuanchen Li, **Yuhao Cheng**, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, Yichao 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/warpface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-3D-Aware Face Editing via Warping-Guided Latent Direction Learning \\
+[3D-Aware Face Editing via Warping-Guided Latent Direction Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_3D-Aware_Face_Editing_via_Warping-Guided_Latent_Direction_Learning_CVPR_2024_paper.html) \\
 **Yuhao Cheng**, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Zhengqin Xu, Di Xu, Changpeng Yang, Yichao Yan
 
 [**Project**](https://cyh-sj.github.io/FaceEdit3D/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
