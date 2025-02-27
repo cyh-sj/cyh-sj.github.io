@@ -1,6 +1,18 @@
 # 📝 Publications 
 \* Equal Contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/s3face.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[S^3^-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors] \\
+Shengqi Liu, **Yuhao Cheng**, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
+
+<!-- [**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
