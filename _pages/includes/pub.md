@@ -6,10 +6,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/textalker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture \\
+[Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture](https://arxiv.org/abs/2503.00495) \\
 Xuanchen Li, Jianyu Wang, **Yuhao Cheng**, Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan 
 
-<!-- [**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+[**Project**](https://xuanchenli.github.io/TexTalk/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2503.00495) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
