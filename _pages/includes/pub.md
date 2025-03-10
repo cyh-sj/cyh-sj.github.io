@@ -2,6 +2,17 @@
 \* Equal Contribution
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/topo4d++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Topo4D++: Realistic Physical-based 4D Head Capture with Topology-Preserving Gaussian Splatting and Expression Priors \\
+**Yuhao Cheng**, Xuanchen Li, Xingyu Ren, Haoyu Wang, Haozhe Jia, Di Xu, Wenhan Zhu, Bingbing Ni, Yichao Yan
+
+[**Project**](https://cyh-sj.github.io/Topo4DPP/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/textalker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
