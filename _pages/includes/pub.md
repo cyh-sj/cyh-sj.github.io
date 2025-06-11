@@ -8,7 +8,7 @@ ExpDiff: Generating High-fidelity Dynamic Facial Expressions with BRDF Textures 
 **Yuhao Cheng**, Xuanchen Li, Xingyu Ren, Zhuo Chen, Xiaokang Yang, Yichao Yan
 
 [**Project**](https://cyh-sj.github.io/expdiff/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Paper**]('papers/expdiff.pdf') <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Paper**](https://github.com/cyh-sj/cyh-sj.github.io/blob/main/papers/expdiff.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
