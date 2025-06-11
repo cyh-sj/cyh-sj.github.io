@@ -8,5 +8,10 @@
 - *2022.10 - 2024.03*, Alibaba Group, Hangzhou.
 - *2021.04 - 2021.10*, OPPO Research Institute, Shanghai.
 
+
+# Academic Services
+- CVPR, ICCV, ACM MM, NeurIPS
+
+
 # Thanks for watching!
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=B4PSU0iLI-ELYN0bCfEEdyqRGO5js81bHVYDQRJlckM&cl=ffffff&w=a"></script>
