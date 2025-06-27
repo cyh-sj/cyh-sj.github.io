@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: 🎉 One paper (3D Garment Generation) is accepted by ICCV 2025 !!
 - *2025.02*: 🎉 Two papers are accepted by CVPR 2025 !!
 - *2024.07*: 🎉 One paper (Topo4D) is accepted by ECCV 2024 !!
 - *2024.02*: 🎉 Two papers are accepted by CVPR 2024 !!

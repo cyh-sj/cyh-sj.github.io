@@ -1,5 +1,5 @@
 # 📝 Publications 
-\* Equal Contribution
+\* Equal Contribution, † Equal Contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TMM</div><img src='images/expdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -8,6 +8,18 @@ ExpDiff: Generating High-fidelity Dynamic Facial Expressions with BRDF Textures 
 **Yuhao Cheng**, Xuanchen Li, Xingyu Ren, Zhuo Chen, Xiaokang Yang, Yichao Yan
 
 [**Project**](https://cyh-sj.github.io/expdiff/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
+Shengqi Liu, **Yuhao Cheng**†, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
+
+[**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
 </div>
 </div>
 
@@ -47,17 +59,6 @@ Xingyu Ren, Jiankang Deng, **Yuhao Cheng**, Wenhan Zhu, Yichao Yan, Xiaokang Yan
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
-Shengqi Liu, **Yuhao Cheng**, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
-
-[**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/faceclan.png' alt="sym" width="100%"></div></div>
