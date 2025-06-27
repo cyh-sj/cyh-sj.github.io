@@ -39,7 +39,7 @@ Topo4D++: Realistic Physical-based 4D Head Capture with Topology-Preserving Gaus
 <div class='paper-box-text' markdown="1">
 
 [Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture](https://arxiv.org/abs/2503.00495) \\
-Xuanchen Li, Jianyu Wang, **Yuhao Cheng**, Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan 
+Xuanchen Li, Jianyu Wang, **Yuhao Cheng**†, Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan 
 
 [**Project**](https://xuanchenli.github.io/TexTalk/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Paper**](https://arxiv.org/pdf/2503.00495) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -77,7 +77,7 @@ Zhuo Chen, Yichao Yan, Sehngqi Liu, **Yuhao Cheng**, Weiming Zhao, Lincheng Li, 
 <div class='paper-box-text' markdown="1">
 
 [Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture](https://arxiv.org/abs/2406.00440) \\
-Xuanchen Li, **Yuhao Cheng**, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, Yichao Yan
+Xuanchen Li, **Yuhao Cheng**†, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, Yichao Yan
 
 [**Project**](https://xuanchenli.github.io/Topo4D/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
