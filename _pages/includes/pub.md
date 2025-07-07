@@ -1,6 +1,18 @@
 # 📝 Publications 
 \* Equal Contribution, † Project Leader
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TVCG</div><img src='images/rng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Relightable and Animatable Gaussian Head Avatar from Monocular Videos \\
+Zhuo Chen, Yichao Yan, Jingnan Gao, Zhuo Su, Chao Wen, Zhaohu Li, **Yuhao Cheng**, Xueying Lee, Yutong Leng, Yikun Zeng, Guidong Wang, Xiaokang Yang
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TMM</div><img src='images/expdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
