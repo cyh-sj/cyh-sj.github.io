@@ -5,12 +5,13 @@
 - *2015.09 - 2019.06*, Undergraduate, Shanghai Jiao Tong Univeristy, Shanghai.
 
 # 💻 Internships
-- *2022.10 - 2024.03*, Alibaba Group, Hangzhou.
+- *2023.11 - 2025.03*, Xueshen AI, Shanghai.
+- *2022.10 - 2023.11*, Alibaba Group, Hangzhou.
 - *2021.04 - 2021.10*, OPPO Research Institute, Shanghai.
 
 
 # Academic Services
-- CVPR, ICCV, ACM MM, NeurIPS
+- Reviewer: CVPR, ICCV, ACM MM, NeurIPS
 
 
 # Thanks for watching!
