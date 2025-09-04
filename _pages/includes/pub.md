@@ -63,10 +63,10 @@ Xuanchen Li, Jianyu Wang, **Yuhao Cheng**†, Yikun Zeng, Xingyu Ren, Wenhan Zhu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/s3face.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
+[S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors](https://openaccess.thecvf.com/content/CVPR2025/papers/Ren_S3-Face_SSS-Compliant_Facial_Reflectance_Estimation_via_Diffusion_Priors_CVPR_2025_paper.pdf) \\
 Xingyu Ren, Jiankang Deng, **Yuhao Cheng**, Wenhan Zhu, Yichao Yan, Xiaokang Yang, Stefanos Zafeiriou, Chao Ma
 
-<!-- [**Project**](https://shengqiliu1.github.io/SewingLDM/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
+[**Project**](https://xingyuren.github.io/s3face//) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
