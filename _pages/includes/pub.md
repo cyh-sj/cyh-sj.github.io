@@ -13,7 +13,7 @@ Zhuo Chen, Yichao Yan, Jingnan Gao, Zhuo Su, Chao Wen, Zhaohu Li, **Yuhao Cheng*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TMM</div><img src='images/expdiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/expdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ExpDiff: Generating High-fidelity Dynamic Facial Expressions with BRDF Textures via Diffusion Model \\
