@@ -13,7 +13,7 @@ Zhuo Chen, Yichao Yan, Jingnan Gao, Zhuo Su, Chao Wen, Zhaohu Li, **Yuhao Cheng*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/expdiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/expdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ExpDiff: Generating High-fidelity Dynamic Facial Expressions with BRDF Textures via Diffusion Model \\
@@ -36,7 +36,7 @@ Shengqi Liu, **Yuhao Cheng**†, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI</div><img src='images/topo4d++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/topo4d++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Topo4D++: Realistic Physical-based 4D Head Capture with Topology-Preserving Gaussian Splatting and Expression Priors \\

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.10*: 🎉 One paper (Topo4D++ on dynamic head reconstruction) is accepted by TPAMI !!
 - *2025.10*: 🎉 One paper (3D Expression Generation) is accepted by TMM !!
 - *2025.06*: 🎉 One paper (3D Garment Generation) is accepted by ICCV 2025 !!
 - *2025.02*: 🎉 Two papers are accepted by CVPR 2025 !!
