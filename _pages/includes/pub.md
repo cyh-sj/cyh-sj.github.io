@@ -1,6 +1,29 @@
 # 📝 Publications 
 \* Equal Contribution, † Project Leader
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/MoRE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts \\
+Jingnan Gao, Zhe Wang, Xianze Fang, Xingyu Ren, Zhuo Chen, Shengqi Liu, **Yuhao Cheng**, Jiangjing Lyu, Xiaokang Yang, Yichao Yan
+
+[**Project**](https://g-1nonly.github.io/MoRE_Website/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2510.27234) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TCSVT</div><img src='images/hks.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Expertise-Encoding Tuning for Domain-Specialized Few-Shot Transfer Learning \\
+
+Qi Zhu, Zhengqin Xu, **Yuhao Cheng**, Yanping Li, Wu Ran, Shuyang Pang, Jingsheng Liu, Chao Ma, Yichao Yan
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TVCG</div><img src='images/rng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
